@@ -1,1 +1,1 @@
-# Assignment_SVM_Forest_Fire_Prediction
+#classify the Forest Fire Size_Categorie using SVM
